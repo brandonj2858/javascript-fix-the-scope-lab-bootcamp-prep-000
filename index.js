@@ -9,7 +9,7 @@ return "cat"
 }
 
 function add2(n) {
-  return n + const two = 2
+  return n + 
 
   // Feel free to move things around!
   
