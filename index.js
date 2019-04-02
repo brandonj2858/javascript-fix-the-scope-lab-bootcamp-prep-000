@@ -3,9 +3,9 @@ var myAnimal = function myAnimal() {
 }
 
 
-var yourAnimal = "cat"
+var yourAnimal = 
 function yourAnimal() {
-return yourAnimal
+return "cat"
 }
 
 function add2(n) {
